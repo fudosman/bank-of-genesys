@@ -2,7 +2,7 @@
 
 <p>this API service makes online banking seamless for our customers</p>
 
-<h3>the Users can</h3> 
+<h3>The Users can</h3> 
 <ul>
 <li>login</li>
 <li>deposit money</li>
@@ -11,7 +11,7 @@
 <li>see a list of all their transactions</li>
 </ul>
 
-<h3>the Admins can</h3>
+<h3>The Admins can</h3>
 <ul>
 <li>add admin</li>
 <li>login admin</li>
